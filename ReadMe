@@ -1,0 +1,26 @@
+PROBLEMS-
+    1.  WHICH DATA TO USE - what kind of data to perform analysis
+    2.  HOW TO STRUCTURE MY DATA - how to get a data with same user having multiple accounts.
+    3.  WHERE TO USE NULL VALUES - which column should have null values
+    4.  DEPENDENCY ISSUE - make versions compatible
+    5.  DATA EXTRACTION - how to correctly extract using json as there are nested classes
+
+
+ANALYSIS-
+    1.  BROADCAST JOIN
+    2.  JOINS
+    3.  REPLACING NULL WITH VALID DATA
+    4.  FILTER DATA
+    5.  REDUCEBYKEY
+    6.  AGGREGATE DATA
+    7.  SORTING
+    8.  GETTING USER INFO
+    9.  FINDING TOTAL/AVERAGE AMOUNT PER BANK/ACCOUNT TYPE
+    10. USERS WITH MULTIPLE ACCOUNTS
+    11. AVERAGE BALANCE
+    12. FINDING USER USING ID
+    13. COUNTING USERS PER BANK/ACCOUNT TYPE
+    14. FINDING NULLS
+    15. PATTERN MATCHING
+    16. STRING INTERPOLATION
+
